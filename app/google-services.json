@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398657681466",
+    "project_id": "final-fafa0",
+    "storage_bucket": "final-fafa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398657681466:android:a832f7a63f1e8d6058dd03",
+        "android_client_info": {
+          "package_name": "com.example.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398657681466-3br3guqrvcjgvjdip4kqqr7kqb57hd35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afinal",
+            "certificate_hash": "50a715167b2fbad472e3e4e168fa28176239d73e"
+          }
+        },
+        {
+          "client_id": "398657681466-atilubk2i1kksglpv1521ssl6075ihl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKh5IFCgl6FNXwUu9Bj13zdKeRkMA8ZW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398657681466-atilubk2i1kksglpv1521ssl6075ihl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
