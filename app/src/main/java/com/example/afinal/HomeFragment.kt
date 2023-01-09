@@ -90,6 +90,10 @@ class HomeFragment : Fragment() {
 
                         })
                     }
+//                    R.id.add -> {
+//                        val action = HomeFragmentDirections.navigateToAddItemFragment()
+//                        Navigation.findNavController(binding.root).navigate(action)
+//                    }
                 }
                 return true
             }
